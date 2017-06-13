@@ -7,5 +7,4 @@ curl -sSL https://rvm.io/mpapis.asc | gpg --import -
 curl -L get.rvm.io | bash -s stable --rails
 
 source ~/.rvm/scripts/rvm
-ruby -v
-rails -v
+sudo reboot
